@@ -2,7 +2,7 @@
 
 Implementing YOLOv3 to identify the players of Tampa Bay Lightning and Columbus Blue Jackets.
 
-**Special thanks to the people who provided these resources:**
+**Resources:**
 * ['YOLO: Real-Time Object Detection' by Joseph Redmon](https://pjreddie.com/darknet/yolo/)
 * ['darknet Repository' by AlexeyAB](https://github.com/AlexeyAB/darknet)
 * ['YOLOv3 Series' by Ivan Goncharov](https://www.youtube.com/playlist?list=PLZBN9cDu0MSk4IFFnTOIDihvhnHWhAa8W)
